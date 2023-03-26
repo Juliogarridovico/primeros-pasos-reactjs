@@ -44,6 +44,7 @@ export default function Estados() {
         <p>{texto}</p>
       </div>
       <hr />
+      
     </div>
   );
 }

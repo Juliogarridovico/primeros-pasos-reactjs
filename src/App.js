@@ -1,4 +1,5 @@
 
+import BucleDentroReact from "./Components/BucleDentroReact";
 import ResultadoFinal from "./Components/ComunicarComponentes/ResultadoFinal";
 import Estados from "./Components/Estados";
 import Operadorterniario from "./Components/Operadorterniario";
@@ -12,6 +13,7 @@ function App() {
       <Estados/>
       <Operadorterniario/>
       <ResultadoFinal/>
+      <BucleDentroReact/>
     </div>
   );
 }
